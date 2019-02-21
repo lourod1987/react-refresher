@@ -1,7 +1,7 @@
 # cpap-assignment
 Building a project to meet requirements and share with team to display and explain my programming work
 
-##Assignment
+## Assignment
   Pre-Work Assignment. Use the Google News api for Engadget articles [Engadget API](https://newsapi.org/s/engadget-api) to create a news reader app, but with visual styling like the Technology section at [Flipboard](https://flipboard.com)
 
 ·         Article listing page
